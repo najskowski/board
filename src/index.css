@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply text-[#eee];
+}
+
+.slate {
+  @apply border-slate-800 bg-slate-900/50;
+}
+.gray {
+  @apply border-gray-800 bg-gray-900/50;
+}
+.zinc {
+  @apply border-zinc-800 bg-zinc-900/50;
+}
+.neutral {
+  @apply border-neutral-800 bg-neutral-900/50;
+}
+.stone {
+  @apply border-stone-800 bg-stone-900/50;
+}
+.red {
+  @apply border-red-800 bg-red-900/50;
+}
+.orange {
+  @apply border-orange-800 bg-orange-900/50;
+}
+.amber {
+  @apply border-amber-800 bg-amber-900/50;
+}
+.yellow {
+  @apply border-yellow-800 bg-yellow-900/50;
+}
+.lime {
+  @apply border-lime-800 bg-lime-900/50;
+}
+.green {
+  @apply border-green-800 bg-green-900/50;
+}
+.emerald {
+  @apply border-emerald-800 bg-emerald-900/50;
+}
+.teal {
+  @apply border-teal-800 bg-teal-900/50;
+}
+.cyan {
+  @apply border-cyan-800 bg-cyan-900/50;
+}
+.sky {
+  @apply border-sky-800 bg-sky-900/50;
+}
+.blue {
+  @apply border-blue-800 bg-blue-900/50;
+}
+.indigo {
+  @apply border-indigo-800 bg-indigo-900/50;
+}
+.violet {
+  @apply border-violet-800 bg-violet-900/50;
+}
+.purple {
+  @apply border-purple-800 bg-purple-900/50;
+}
+.fuchsia {
+  @apply border-fuchsia-800 bg-fuchsia-900/50;
+}
+.pink {
+  @apply border-pink-800 bg-pink-900/50;
+}
+.rose {
+  @apply border-rose-800 bg-rose-900/50;
+}
