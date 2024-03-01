@@ -55,7 +55,7 @@ export const Table = ({ data }: { data: TableType }) => {
     >
       <div
         className={twMerge(
-          "p-5 rounded-md border w-[300px] absolute left-10 top-10",
+          "p-5 rounded-md border w-[300px] absolute left-10 top-10 transition-colors",
           data.color ?? "neutral"
         )}
       >
