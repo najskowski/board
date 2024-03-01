@@ -38,7 +38,7 @@ export const ColorPalette = ({
     };
   }, []);
   return (
-    <motion.div className="w-max h-fit p-3 border border-neutral-800 bg-neutral-900 rounded-md grid grid-cols-5 gap-1 absolute right-0 top-7 z-10 color-palette"
+    <motion.div className="w-max h-fit p-3 border border-neutral-800 bg-neutral-900 rounded-md grid grid-cols-5 gap-1 absolute -left-[60px] top-7 z-10 color-palette"
       initial={{ scale: "0%" }}
       animate={{ scale: "100%" }}
       exit={{ scale: "0%" }}
