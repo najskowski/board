@@ -9,6 +9,7 @@
 
 ## Features: 
 - Creating tables/lists
+- Changing their colors
 - Adding tasks to them
 - Downloading and importing boards from .json
 - Everything is saved in local storage
@@ -20,4 +21,4 @@ Go to your terminal and run:
 - ```npm install```  
 - ```npm run dev```  
 
-After running all of above commands, navigate to [http://localhost:5173/](http://localhost:5173/)
+After running all of the above commands, navigate to [http://localhost:5173/](http://localhost:5173/).
