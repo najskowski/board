@@ -1,4 +1,4 @@
-# Simple kanban / notes application.
+# Simple todo / notes board.
 ![alt text](./public/screenshot.png)
 
 ## This project was built using:
@@ -16,8 +16,8 @@
 
 ## How to use?
 Go to your terminal and run:
-- ```git clone https://github.com/najskowski/kanban.git```  
-- ```cd kanban```  
+- ```git clone https://github.com/najskowski/board.git```  
+- ```cd board```  
 - ```npm install```  
 - ```npm run dev```  
 
